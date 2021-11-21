@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏻, I'm Lindsey 👩🏻‍🦰</h2>
-<h3 align="center">an aspiring web developer from Dallas, TX.</h3>
+<h3 align="center">an apprentice web developer from Dallas, TX.</h3>
 
 <img src="https://raw.githubusercontent.com/l1nd53y/l1nd53y/main/MulderType.gif" align="right" alt="Me, learning:">
 
+
 - 🌱 I’m currently learning: **JavaScript, Java**
 
-- 📋 View my portfolio (WIP!): [lindseytrujillo.com](https://lindseytrujillo.com)
+- 💻 View my portfolio : [lindseytrujillo.com](https://lindseytrujillo.com)
 
 - ✨ Fun fact: **I'm a [BTS](https://www.youtube.com/watch?v=ilqQJrbXghQ&list=PL_Cqw69_m_yz4JcOfmZb2IDWwIuej1xfN) fan 💜**
 
