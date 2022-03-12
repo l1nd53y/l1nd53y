@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🖼️ View my [portfolio](https://lindseytrujillo.com)
 
-- ✨ Fun fact: **I was in a [TIME Magazine](https://time.com/entertainer-of-the-year-2020-bts/) article 😆**
+- ✨ Fun fact: **I was in a TIME Magazine [article](https://time.com/entertainer-of-the-year-2020-bts/) 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
