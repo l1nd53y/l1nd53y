@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: **JavaScript, Java**
 
-- 💻 View my portfolio : [lindseytrujillo.com](https://lindseytrujillo.com)
+- 🖼️ View my portfolio : [lindseytrujillo.com](https://lindseytrujillo.com)
 
-- ✨ Fun fact: **I'm a [BTS](https://www.youtube.com/watch?v=ilqQJrbXghQ&list=PL_Cqw69_m_yz4JcOfmZb2IDWwIuej1xfN) fan 💜**
+- ✨ Fun fact: **I 💜 BTS](https://www.youtube.com/watch?v=ilqQJrbXghQ&list=PL_Cqw69_m_yz4JcOfmZb2IDWwIuej1xfN)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
