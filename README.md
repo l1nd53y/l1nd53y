@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: **JavaScript, Java**
 
-- 🖼️ View my [portfolio](https://lindseytrujillo.com)
+- 🖼️ View my portfolio: **[Here](https://lindseytrujillo.com)**!
 
 - ✨ Fun fact: **I was in a TIME Magazine [article](https://time.com/entertainer-of-the-year-2020-bts/) 😆**
 
