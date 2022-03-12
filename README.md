@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🖼️ View my portfolio: **[https://lindseytrujillo.com](https://lindseytrujillo.com)**!
 
-- 📚 I love reading!
+- 📚 Fun fact: **I love reading!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
