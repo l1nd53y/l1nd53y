@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏻, I'm Lindsey 👩🏻‍🦰</h2>
-<h3 align="center">an apprentice web developer from Dallas, TX.</h3>
+<h3 align="center">a software engineer from Dallas, TX.</h3>
 
 <img src="https://raw.githubusercontent.com/l1nd53y/l1nd53y/main/MulderType.gif" align="right" alt="Me, learning:">
 
 
-- 🌱 I’m currently learning: **JavaScript, Java**
+- 🌱 I’m currently learning: **UX Design/Research**
 
 - 🖼️ View my portfolio: **[https://lindseytrujillo.com](https://lindseytrujillo.com)**!
 
-- 📚 Fun fact: **Reading is my favorite relaxation activity~**
+- 🐶 Fun fact: **I love animals, especially my two dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
