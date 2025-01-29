@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/l1nd53y/l1nd53y/main/MulderType.gif" align="right" alt="Me, learning:">
 
 
-- 🌱 I’m currently learning: **UI/UX**
+- 🌱 I’m currently learning: **UI/UX, test automation**
 
 - 🖼️ View my portfolio: **[https://lindseytrujillo.com](https://lindseytrujillo.com)**!
 
